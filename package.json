@@ -1,0 +1,20 @@
+{
+  "name": "materialize-css_starter_pack",
+  "version": "1.0.0",
+  "description": "Materialize-css starter pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jishnu",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
